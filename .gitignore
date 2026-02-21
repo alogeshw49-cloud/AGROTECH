@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+
+# Flutter/Dart
+frontend/agrodetect_app/.dart_tool/
+frontend/agrodetect_app/build/
+frontend/agrodetect_app/.flutter-plugins
+frontend/agrodetect_app/.flutter-plugins-dependencies
+frontend/agrodetect_app/android/app/build/
+*.iml
+.idea/
+.vscode/
+
+# IDEs and OS
+.DS_Store
